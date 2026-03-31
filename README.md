@@ -17,7 +17,7 @@
 
 <div>
 <h3>Brief about me</h3>
-Welcome! I'm Mohamed Salah, an expert front-end developer in React library. I have a great passion for starting innovative and innovative app developments, with a focus on improving user experience and app performance.
+Welcome! I'm Karem Reda, an expert Back-end developer in React library. I have a great passion for starting innovative and innovative app developments, with a focus on improving user experience and app performance.
 
 <h3>My Skills</h3>
 React: Create interactive and reusable components, manage state using Redux and Context API, and use libraries like React Router and Axios.
