@@ -21,10 +21,17 @@
 Welcome! I'm Karem Reda, an expert Back-end developer in React library. I have a great passion for starting innovative and innovative app developments, with a focus on improving user experience and app performance.
 
 <h3>My Skills</h3>
-React: Create interactive and reusable components, manage state using Redux and Context API, and use libraries like React Router and Axios.
-JavaScript/TypeScript: Extensive experience writing clean, maintainable code using JavaScript and TypeScript.
-HTML/CSS: Design responsive and modern user interfaces using HTML5 and CSS3, with good knowledge of frameworks such as Bootstrap and Tailwind CSS.
-Development tools: Git/GitHub for project management and version control, Webpack and Babel for setting up development environments.
+.NET / C#: Build scalable and high-performance backend applications using ASP.NET Core, with strong understanding of object-oriented programming and clean code practices.
+
+Web APIs: Design and develop RESTful APIs, handle HTTP requests/responses, and implement best practices for API structure, validation, and error handling.
+
+Databases: Work with SQL Server and Entity Framework Core for data modeling, querying, and migrations, with solid experience in LINQ.
+
+Authentication & Security: Implement authentication and authorization using JWT, manage user roles, and secure APIs against common vulnerabilities.
+
+Architecture & Design Patterns: Apply SOLID principles, Dependency Injection, and Clean Architecture to build maintainable and testable systems.
+
+Development Tools: Use Git/GitHub for version control, Postman for API testing, and Visual Studio / VS Code for development, with basic knowledge of Docker.
 </div>
 <br>
 
