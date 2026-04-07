@@ -18,7 +18,10 @@
 
 <div>
 <h3>Brief about me</h3>
-Welcome! I'm Karem Reda, an expert Back-end developer in React library. I have a great passion for starting innovative and innovative app developments, with a focus on improving user experience and app performance.
+
+Welcome! I'm Karem Reda, a dedicated .NET Back-End Developer with a strong focus on building scalable, secure, and high-performance web applications using ASP.NET Core and C#.
+
+I have a passion for designing clean architectures, developing RESTful APIs, and optimizing backend systems for efficiency and reliability. I continuously strive to enhance my skills and stay up to date with modern backend development practices.
 
 <h3>My Skills</h3>
 .NET / C#: Build scalable and high-performance backend applications using ASP.NET Core, with strong understanding of object-oriented programming and clean code practices.
